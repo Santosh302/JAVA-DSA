@@ -10,5 +10,8 @@ public final class watermelon {
             System.out.println("YES");
         else
             System.out.println("NO");
+           
+            sc.close();
     }
+    
 }

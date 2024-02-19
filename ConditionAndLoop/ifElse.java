@@ -15,5 +15,6 @@ class ifElse {
             System.out.println("Fail!");
         }
         // System.out.println("Last Line!");
+        sc.close();
     }
 }

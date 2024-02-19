@@ -16,5 +16,6 @@ class max3 {
         }
         else //not a , and not b
         System.out.println("C is greater number");
+        sc.close();
     }
 }

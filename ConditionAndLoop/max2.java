@@ -16,5 +16,6 @@ class max2 {
 
         //an alternate method
         System.out.println(a>b?a:b);
+        sc.close();
     }
 }

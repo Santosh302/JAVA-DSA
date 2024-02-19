@@ -12,6 +12,7 @@ public class print_1_to_n {
     for(int ctr=n; ctr>=1; ctr--){
         System.out.println(ctr);
     }
+    sc.close();
     }
    
 }
