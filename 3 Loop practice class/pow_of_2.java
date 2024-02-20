@@ -22,7 +22,7 @@ public class pow_of_2 {
             
                
         }
-        sc.close()
+        sc.close();
     }
 }
 //leetcode solution ....

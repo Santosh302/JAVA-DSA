@@ -20,6 +20,6 @@ public class prime_1_to_n {
                 System.out.println(num);
             }
         }
-        sc.close()
+        sc.close();
     }
 }
