@@ -15,5 +15,8 @@ public class hcf_1 {
             }
         }
         System.out.println(ans);
+
+        sc.close()   
     }
+    
 }

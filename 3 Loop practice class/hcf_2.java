@@ -14,5 +14,6 @@ public class hcf_2 {
                 break;
             }
         }
+        sc.close();
     }
 }
